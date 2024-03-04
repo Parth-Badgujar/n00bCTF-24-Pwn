@@ -1,1 +1,1 @@
-### Writeups for all the `pwn` challenges in n00bCTF-24
+### Challenge files for all the `pwn` challenges in n00bCTF-24
