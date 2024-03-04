@@ -1,0 +1,1 @@
+### Writeups for all the `pwn` challenges in n00bCTF-24
