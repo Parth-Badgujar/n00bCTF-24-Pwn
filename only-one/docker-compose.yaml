@@ -1,0 +1,7 @@
+version: '2'
+services:
+  pwn:
+    build: .
+    ports:
+      - "4093:4093"
+    container_name: "only-one"

@@ -1,0 +1,7 @@
+version: '2'
+services:
+  pwn:
+    build: .
+    ports:
+      - "4094:4094"
+    container_name: "stack-pro"

@@ -1,0 +1,7 @@
+version: '2'
+services:
+  pwn:
+    build: .
+    ports:
+      - "4092:4092"
+    container_name: "secure-computing"
